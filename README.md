@@ -3,7 +3,7 @@
 <h3 align="center">Spagetti Code Maker & Noob Hacker</h3>
 
 ## Contact
-[![Discord](https://discord.c99.nl/widget/theme-3/809373842015387648.png)](http://discord.com/users/809373842015387648)
+[![Discord](https://discord.mu9nd.nl/widget/theme-3/809373842015387648.png)](http://discord.com/users/809373842015387648)
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:muhannadqrni@gmail.com)](mailto:muhannadqrni@gmail.com)
 
